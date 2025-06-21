@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "727122846439",
+    "project_id": "lokkendeliveryproject",
+    "storage_bucket": "lokkendeliveryproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:727122846439:android:b143e9878a097b7831b842",
+        "android_client_info": {
+          "package_name": "com.joram.lokshen_delivery_riders_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0o8fehalbK8PST1xlMBmW0qgdC_HoT8U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:727122846439:android:ad3dfc827b39198631b842",
+        "android_client_info": {
+          "package_name": "com.joram.lokshen_delivery_users_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0o8fehalbK8PST1xlMBmW0qgdC_HoT8U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:727122846439:android:07b75efe034e1b2431b842",
+        "android_client_info": {
+          "package_name": "com.joram.lokshendeliverysellerapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0o8fehalbK8PST1xlMBmW0qgdC_HoT8U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
